@@ -75,8 +75,8 @@ figure a:hover{
         border: #333 solid 1px;
     }
     footer{
-        background-color: #333;
-        color: wheat; 
+        background-color: #b5b5b5;
+        color: rgb(1, 1, 1); 
         display: flex;
         align-items: center; 
         justify-content: space-around; 
