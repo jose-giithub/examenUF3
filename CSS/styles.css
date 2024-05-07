@@ -36,3 +36,11 @@ main {
     text-align: center;
     margin: 40px 20px;
 }
+figure a{
+text-decoration: none;
+font-family: cursive;
+}
+figure a:hover{
+  background-color: blue;
+  color: white;
+    }
