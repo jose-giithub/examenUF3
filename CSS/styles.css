@@ -71,3 +71,17 @@ figure a:hover{
         text-align: start;
         margin: 40px 20px;
     }
+    table{
+        border: #333 solid 1px;
+    }
+    footer{
+        background-color: #333;
+        color: wheat; 
+        display: flex;
+    }
+    button{
+        background-color: blue;
+       padding: 20px 20px;
+        color: wheat;
+        font-size: 20px;
+    }
