@@ -14,6 +14,14 @@ header {
     width: 100%;
 }
 
+ a{
+    text-decoration: none;
+    font-family: cursive;
+    }
+ a:hover{
+      background-color: blue;
+      color: white;
+        }
 main {
     display: flex;
     flex-direction: column;
@@ -43,4 +51,14 @@ font-family: cursive;
 figure a:hover{
   background-color: blue;
   color: white;
+    }
+    .seccion h3 {
+        text-align: start;
+        margin: 40px 20px;
+    }
+    table{
+        text-align: center;
+    }
+    table samp{
+        text-align: start;
     }
