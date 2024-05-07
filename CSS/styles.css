@@ -78,10 +78,13 @@ figure a:hover{
         background-color: #333;
         color: wheat; 
         display: flex;
+        align-items: center; 
+        justify-content: space-around; 
     }
     button{
         background-color: blue;
        padding: 20px 20px;
         color: wheat;
         font-size: 20px;
+        margin-right: 300px;
     }
