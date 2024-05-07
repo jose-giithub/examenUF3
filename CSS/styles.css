@@ -62,3 +62,7 @@ figure a:hover{
     table samp{
         text-align: start;
     }
+    article{
+        margin-top: 20px;
+       border: #333 solid 1px;
+    }
