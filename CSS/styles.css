@@ -63,6 +63,11 @@ figure a:hover{
         text-align: start;
     }
     article{
+        text-align: start;
         margin-top: 20px;
        border: #333 solid 1px;
+    }
+    article h3 {
+        text-align: start;
+        margin: 40px 20px;
     }
