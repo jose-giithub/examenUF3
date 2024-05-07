@@ -1,4 +1,14 @@
-body{
-    background-color: aliceblue;
-    color: black;
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    height: 100%; 
+}
+
+header {
+    background: #333;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    width: 100%;
 }
